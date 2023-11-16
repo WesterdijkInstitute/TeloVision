@@ -42,3 +42,6 @@ options:
                         Size of gaps allowed within telomeric repeats. (default: length of detected repeat)
   --sorted              Sorts the scaffolds by size if selected.
 ```
+
+## Author
+https://github.com/TimVerschuren
