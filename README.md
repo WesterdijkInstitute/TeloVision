@@ -45,5 +45,17 @@ options:
 ## Results overview
 ### HTML Assembly Visualisation
 ![alt text](https://github.com/WesterdijkInstitute/TeloVision/blob/main/Examples/Aspni_NRRL3.png)
+
+### Telomere info TSV file
+|          | Repeat |	Length |	GC% |	Telomere |	Repetitive Sequence |
+|----------|--------|--------|------|----------|----------------------|
+|chr_101_5'|AAAACCCT|128|0.375|Y|AAAACCCTAAAACCCTAAAACCCTAAAACCCTAAAACCCTAAAACCCTAAAAACCCTAAACCCTAAAACCCTAAAACCCTAAAACCCTAAAACCCTAAAAACCCTAAAACCCTAAAACCCTAAACCCT|
+|chr_101_3'|TAATAATAAAAT|60|0.0|N|TAATAATAAAATTAATAATAAAATTAATAATAAAATTAATAATAAAATTAATAATAAAAT|
+|chr_102_5'|TAATA|10|0.0|N|TAATATAATA|
+|chr_102_3'|TTAGGGTT|48|0.375|Y|TTAGGGTTTTAGGGTTTTAGGGTTTTAGGGTTTTAGGGTTTTAGGGTT|
+|...|
+
 ## Author
-https://github.com/TimVerschuren
+Tim Verschuren <br/>
+[GitHub](https://github.com/TimVerschuren)
+[LinkedIn](https://www.linkedin.com/in/tim-verschuren-27082919b/)
