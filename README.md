@@ -42,6 +42,8 @@ options:
                         Size of gaps allowed within telomeric repeats. (default: length of detected repeat)
   --sorted              Sorts the scaffolds by size if selected.
 ```
-
+## Results overview
+### HTML Assembly Visualisation
+![alt text](https://github.com/WesterdijkInstitute/TeloVision/blob/main/Examples/Aspni_NRRL3.png)
 ## Author
 https://github.com/TimVerschuren
