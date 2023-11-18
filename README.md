@@ -9,7 +9,7 @@ TeloVision is a python package which determines the presence of telomeres in gen
 TeloVision can be installed by first cloning this GitHub repository. Subsequently, go into the location where the repository was saved and use pip to install the package.
 ```bash
 # Clone repository
-git clone https://github.com/TimVerschuren/TeloVision.git
+git clone https://github.com/WesterdijkInstitute/TeloVision.git
 
 # Go into repository location
 cd .../TeloVision/
