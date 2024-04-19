@@ -20,8 +20,8 @@ __author__ = "Tim Verschuren"
 __credits__ = ["Tim Verschuren", "Jérôme Collemare"]
 
 __licence__ = "MIT"
-__date__ = "20-09-2023"
-__version__ = "0.3.2"
+__date__ = "19-04-2024"
+__version__ = "0.3.2.1"
 __maintainer__ = "Tim Verschuren"
 __email__ = "t.verschuren@wi.knaw.nl"
 __status__ = "Development"
@@ -61,7 +61,7 @@ class findTelomeres:
         kmer_dict = {}
         repeat_coord = {}
         rep_qc_dict = {}
-        for k in range(5,25):
+        for k in range(5,30):
             if gap == False:
                 gap = k
             for i in range(0, len(seq_slice) - k + 1):
